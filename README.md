@@ -3,13 +3,13 @@
 cd country-info-app
 
 3. Install Dependencies
-Frontend
-cd frontend
+Frontend->
+cd frontend->
 npm install
 
 
-Backend
-cd backend
+Backend->
+cd backend=>
 npm install
 
 3. Set Up Environment Variables
